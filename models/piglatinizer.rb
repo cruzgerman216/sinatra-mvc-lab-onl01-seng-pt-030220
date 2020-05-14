@@ -1,7 +1,7 @@
 class PigLatinizer
 
   def piglatinize(str)
-    arr = "str".split("").pop
+    arr = "strasdf".split("").pop
     binding.pry
   end
 end
