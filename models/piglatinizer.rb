@@ -1,7 +1,7 @@
 class PigLatinizer
 
   def piglatinize(str)
-    "str".pop
+    arr = "str".pop
     binding.pry
   end
 end
